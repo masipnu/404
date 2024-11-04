@@ -1,2 +1,2 @@
 # 404
-Custom Error 404 Page
+[Custom Error 404 Page](/404)
