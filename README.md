@@ -1,2 +1,2 @@
 # 404
-[Custom Error 404 Page](https://masipnu.github.io/404)
+[masipnu.github.io/404](https://masipnu.github.io/404)
